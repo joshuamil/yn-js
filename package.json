@@ -1,0 +1,19 @@
+{
+  "name": "yn-js",
+  "version": "0.0.3",
+  "description": "Replaces boolean values with a string equivalent (e.g.: Yes / No)",
+  "main": "yn-js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yes",
+    "no",
+    "boolean",
+    "string",
+    "replace",
+    "display"
+  ],
+  "author": "Joshua Miller <joshuamil@gmail.com>",
+  "license": "ISC"
+}
