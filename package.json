@@ -15,5 +15,6 @@
     "display"
   ],
   "author": "Joshua Miller <joshuamil@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/joshuamil/yn-js.git"
 }
